@@ -51,5 +51,11 @@ module Maths
     Math.PI
   end
 
+  #::function circleArea
+  #@@depends pi
+  def circle_area(radius)
+    pi() * radius * radius
+  end
+
   #::addbefore
 end
