@@ -35,14 +35,14 @@
         //::function pi
         pi: function() {
             return Math.PI;
-        },
+        }
         ,
 
         //::function circleArea
         //@@depends pi
         circleArea: function(radius) {
             return maths.pi()*radius*radius;
-        },
+        }
         ,
 
         //::addbefore
