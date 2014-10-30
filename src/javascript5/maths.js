@@ -32,6 +32,12 @@
         }
         ,
 
+        //::function pi
+        pi: function() {
+            return Math.PI;
+        },
+        ,
+
         //::addbefore
         stub: null
 }})(window);
