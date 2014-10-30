@@ -45,5 +45,11 @@ module Maths
     return 0 if dx == 0 and dy == 0
     dy / Maths.hypot(dx, dy)
   end  
+  #::function pi
+  #@@native Math.PI
+  def pi()
+    Math.PI
+  end
+
   #::addbefore
 end
