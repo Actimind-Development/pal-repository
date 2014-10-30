@@ -1,0 +1,105 @@
+{"functions":[
+
+        {
+             "id":"truncate"
+            ,"tag":"strings"
+            ,"description":"Truncates"
+        }
+
+        ,{
+             "id":"normalizeSpaces"
+            ,"tag":"strings"
+            ,"description":""
+        }
+
+        ,{
+             "id":"isDefined"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"isPositive"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"valid"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"invalid"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"isNegative"
+            ,"tag":"checks"
+            ,"description":"Checks that value is negative"
+        }
+
+        ,{
+             "id":"hypot"
+            ,"tag":"maths"
+            ,"description":"ololo"
+        }
+
+        ,{
+             "id":"sqrt"
+            ,"tag":"maths"
+            ,"description":"Calculates sqrt"
+        }
+
+        ,{
+             "id":"normalizeDx"
+            ,"tag":"maths"
+            ,"description":"normalizes dx-part of \u003cdx,dy\u003e vector"
+        }
+
+        ,{
+             "id":"normalizeDy"
+            ,"tag":"maths"
+            ,"description":"normalizes dy-part of \u003cdx,dy\u003e vector"
+        }
+
+        ,{
+             "id":"split"
+            ,"tag":"strings"
+            ,"description":""
+        }
+
+        ,{
+             "id":"map"
+            ,"tag":"lists"
+            ,"description":""
+        }
+
+        ,{
+             "id":"strToInt"
+            ,"tag":"strings"
+            ,"description":""
+        }
+
+        ,{
+             "id":"length"
+            ,"tag":"lists"
+            ,"description":""
+        }
+
+        ,{
+             "id":"filter"
+            ,"tag":"lists"
+            ,"description":""
+        }
+
+        ,{
+             "id":"ipValid"
+            ,"tag":"ips"
+            ,"description":""
+        }
+
+]}

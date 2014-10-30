@@ -1,0 +1,105 @@
+{"functions":[
+
+        {
+             "id":"truncate"
+            ,"tag":"strings"
+            ,"description":"Truncates"
+        }
+
+        ,{
+             "id":"normalizeSpaces"
+            ,"tag":"strings"
+            ,"description":"Suddenly normalizes spaces"
+        }
+
+        ,{
+             "id":"isDefined"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"isPositive"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"valid"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"invalid"
+            ,"tag":"checks"
+            ,"description":""
+        }
+
+        ,{
+             "id":"isNegative"
+            ,"tag":"checks"
+            ,"description":"Checks that value is negative"
+        }
+
+        ,{
+             "id":"hypot"
+            ,"tag":"maths"
+            ,"description":"Length of the vector"
+        }
+
+        ,{
+             "id":"sqrt"
+            ,"tag":"maths"
+            ,"description":"Calculates sqrt"
+        }
+
+        ,{
+             "id":"reverse"
+            ,"tag":"strings"
+            ,"description":"Reverses the string - really!"
+        }
+
+        ,{
+             "id":"strToInt"
+            ,"tag":"strings"
+            ,"description":""
+        }
+
+        ,{
+             "id":"intToStr"
+            ,"tag":"strings"
+            ,"description":""
+        }
+
+        ,{
+             "id":"capitalize"
+            ,"tag":"strings"
+            ,"description":"capitalize!!!"
+        }
+
+        ,{
+             "id":"pi"
+            ,"tag":"maths"
+            ,"description":""
+        }
+
+        ,{
+             "id":"circleArea"
+            ,"tag":"maths"
+            ,"description":""
+        }
+
+        ,{
+             "id":"length"
+            ,"tag":"lists"
+            ,"description":"returns length of the list"
+        }
+
+        ,{
+             "id":"counter"
+            ,"tag":"lists"
+            ,"description":""
+        }
+
+]}
