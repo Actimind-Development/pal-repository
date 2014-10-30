@@ -38,6 +38,13 @@
         },
         ,
 
+        //::function circleArea
+        //@@depends pi
+        circleArea: function(radius) {
+            return maths.pi()*radius*radius;
+        },
+        ,
+
         //::addbefore
         stub: null
 }})(window);
